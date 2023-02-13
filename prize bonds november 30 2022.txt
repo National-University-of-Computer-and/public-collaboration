@@ -1,0 +1,68 @@
+IMTIAZ
+2 bonds 1500
+18500+18500 = 37000
+
+2 bonds 200
+1250+1250 = 2500
+
+1 bond 750
+9300 = 9300
+
+Total Prize Money = 48800
+Tax (15%) = 7320
+Remaining Prize money = 41480
+Prize Bond amount = 1500+1500+200+200+750 = 4150
+
+Total amount
+41480+4150 = 45630
+
+
+AMEE
+1 bond 1500
+18500
+Tax (15%) = 2775
+total prize money =15725
+Prize Bond amount = 1500
+Total amount = 17225
+
+
+
+AFSHEEN
+2 bonds 750
+9300+9300 = 18600
+Tax (15%) = 2790
+total prize money = 15810
+Prize Bond amount = 1500
+Total amount = 17310
+
+
+ZULFIQAR
+1 bond 1500
+18500
+Tax (15%) = 2775
+total prize money =15725
+Prize Bond amount = 1500
+Total amount = 17225
+
+
+TARIQ
+5  200
+1250*5 = 6250
+Tax (15%) = 937.5
+total prize money = 5312.5
+Prize Bond amount = 1000
+Total amount =6310
+
+
+total money = 97390  (plus tariq  102702)
+
+
+103,699
+imtiaz  45630
+amee    17220
+tariq    6310
+afshee  17310
+amee    20000
+
+total   86470
+remaining  
